@@ -4,7 +4,7 @@
 
 ## Getting started
 
-Only follow these three steps:
+Only follow these steps:
 
 1) Install [Composer](https://getcomposer.org/doc/00-intro.md#installation-linux-unix-osx).
 
